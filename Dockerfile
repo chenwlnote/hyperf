@@ -1,6 +1,6 @@
 FROM hyperf/hyperf:7.4-alpine-v3.14-base
 
-LABEL maintainer="Rongle <rongle@fun.tv>" version="1.0" license="MIT"
+LABEL maintainer="chenwl" version="1.0" license="MIT"
 
 ARG SW_VERSION
 ARG COMPOSER_VERSION
